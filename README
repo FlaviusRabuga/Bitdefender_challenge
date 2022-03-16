@@ -1,0 +1,7 @@
+    Pentru optimizare am adaugat:
+- additional_keywords care adauga 0.32 puncte per cuvant aflat in email;
+- +35 de puncte daca emailul are (numar litere mari) > (numara litere / 2);
+- se considere mail normal (nu spam) daca subiectul contine "re" "Re" sau "RE";
+- se considera mail noraml (nu spam) daca subiectul contine "newsletter";
+- am inmultit cu 4 adaosul pentru spammers;
+- am scazut pragul la 33.
